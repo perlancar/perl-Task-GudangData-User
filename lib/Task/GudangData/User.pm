@@ -9,17 +9,15 @@ as data source.
 
 =pkgroup Included modules
 
-=pkg HTTP::Daemon::Patch::IPv6
+=pkg Business::BankCard::Indonesia
 
-=pkg LWP::UserAgent::Patch::HTTPSHardTimeout
+=pkg Business::BankList::Indonesia
 
-=pkg LWP::UserAgent::Patch::LogResponse
+=pkg Locale::ID::Locality
 
-=pkg Net::HTTP::Methods::Patch::LogRequest
-
-=pkg UUID::Random::Patch::UseMRS
+=pkg Locale::ID::Province
 
 =cut
 
 1;
-# ABSTRACT: SHARYANTO's patch modules
+# ABSTRACT: Modules which use data from gudangdata.org
