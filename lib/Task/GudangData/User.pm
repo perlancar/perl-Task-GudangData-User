@@ -13,6 +13,10 @@ as data source.
 
 =pkg Business::BankList::Indonesia
 
+=pkg Business::ID::BCA
+
+=pkg Business::ID::Mandiri
+
 =pkg Locale::ID::Locality
 
 =pkg Locale::ID::Province
