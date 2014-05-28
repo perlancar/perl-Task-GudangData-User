@@ -1,6 +1,7 @@
 package Task::GudangData::User;
 
 # VERSION
+# DATE
 
 =head1 DESCRIPTION
 
@@ -20,6 +21,8 @@ as data source.
 =pkg Locale::ID::Locality
 
 =pkg Locale::ID::Province
+
+=pkg Ubuntu::Releases
 
 =cut
 
